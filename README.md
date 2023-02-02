@@ -1,6 +1,9 @@
 
 
-### Java developer who has improved and improving himself in Java applications.
+
+### Hi there
+
+ Java developer who has improved and improving himself in Java applications.
 
 </br>
 

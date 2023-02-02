@@ -1,5 +1,5 @@
 
-<img src="https://giphy.com/embed/13rQ7rrTrvZXlm"  align="right" width="500" height="250" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://giphy.com/embed/13rQ7rrTrvZXlm"  align="right" width="500" height="250" >
 ### Hi there :wave:
 
  Java developer who has improved and improving himself in Java applications.

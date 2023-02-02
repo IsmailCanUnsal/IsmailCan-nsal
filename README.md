@@ -1,6 +1,5 @@
 
-<iframe src="https://giphy.com/embed/13rQ7rrTrvZXlm" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm">via GIPHY</a></p>
-
+<img src="https://giphy.com/embed/13rQ7rrTrvZXlm"  align="right" width="500" height="250" frameBorder="0" class="giphy-embed" allowFullScreen>
 ### Hi there :wave:
 
  Java developer who has improved and improving himself in Java applications.
